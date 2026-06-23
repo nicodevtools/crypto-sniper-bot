@@ -70,3 +70,17 @@ Includes: Source code + setup guide + 1 month of updates.
 ## License
 
 Single-user. © Nico
+
+---
+
+## 💰 Get This Tool
+
+**Pay what you want — minimum $5 USDT/POL/ETH on Polygon**
+
+```
+Wallet: 0xD404AE6B45Cae3D453D4408de99eC489Ce0fc18e
+```
+
+Send your TX hash for instant access. 🎯
+
+[More Tools →](https://github.com/nicodevtools)
